@@ -1,0 +1,8 @@
+{
+  "auc": 0.7894,
+  "total_customers": 7043,
+  "churn_rate": 0.1704,
+  "avg_monthly_charges": 60.57,
+  "avg_tenure": 36.3,
+  "test_size": 1409
+}
