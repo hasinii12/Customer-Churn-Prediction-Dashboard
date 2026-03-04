@@ -8,7 +8,8 @@ A production-grade machine learning dashboard that predicts customer churn for a
 
 ## 📸 Preview
 
-![Dashboard Screenshot](assets/preview.png)
+![Dashboard Screenshot]Screenshot 2026-03-04 114059.png
+
 
 ---
 
